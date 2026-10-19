@@ -10,5 +10,7 @@ Tilføj info om vejrstationen
 
 ## links:
 
-[vejrstationen på wunderground](https://www.wunderground.com/dashboard/pws/IAARHU61)
+[Vejrstationen på wunderground](https://www.wunderground.com/dashboard/pws/IAARHU61)
+
+[Vejrstationen på weathercloud](https://app.weathercloud.net/d1803522823)
 
